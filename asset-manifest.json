@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.9b0e940f.css",
-    "main.js": "/static/js/main.ebd19264.js",
-    "static/media/parallax.jpg": "/static/media/parallax.33236d6a82c8d95a5fa7.jpg",
-    "index.html": "/index.html",
-    "main.9b0e940f.css.map": "/static/css/main.9b0e940f.css.map",
-    "main.ebd19264.js.map": "/static/js/main.ebd19264.js.map"
+    "main.css": "/site-cran-react-githubpages/static/css/main.dca6cf7f.css",
+    "main.js": "/site-cran-react-githubpages/static/js/main.ebd19264.js",
+    "static/media/parallax.jpg": "/site-cran-react-githubpages/static/media/parallax.33236d6a82c8d95a5fa7.jpg",
+    "index.html": "/site-cran-react-githubpages/index.html",
+    "main.dca6cf7f.css.map": "/site-cran-react-githubpages/static/css/main.dca6cf7f.css.map",
+    "main.ebd19264.js.map": "/site-cran-react-githubpages/static/js/main.ebd19264.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b0e940f.css",
+    "static/css/main.dca6cf7f.css",
     "static/js/main.ebd19264.js"
   ]
 }
